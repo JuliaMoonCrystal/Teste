@@ -225,7 +225,6 @@ console.log('O maior valor de faturamento ocorrido em um dia do mês é ' + maio
 // Escreva um programa na linguagem que desejar onde calcule o percentual de representação que cada estado teve 
 // dentro do valor total mensal da distribuidora.
 
-console.log(total.toFixed(2));
 var porcentagem = 0
 var faturamento = [
     { state: 'SP', value: 67836.43 },

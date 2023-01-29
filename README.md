@@ -1,4 +1,5 @@
 # Teste-técnico
+# *o arquivo main.js contem o desenvolvimento dos desafios
 Teste técnico 
 
 1) Observe o trecho de código abaixo:

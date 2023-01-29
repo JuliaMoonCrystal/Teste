@@ -1,0 +1,8 @@
+{
+  "name": "Teste-tecnico",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JuliaMoonCrystal/Teste-tecnico.git",
+  "author": "julia <jufarias20002@gmail.com>",
+  "license": "MIT"
+}

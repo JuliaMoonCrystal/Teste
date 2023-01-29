@@ -43,7 +43,6 @@ for (var i = 2; i <= num; i++) {
     console.log('número informado não pertence a sequência.');
   }
 }
-console.log(fibonacci);
 
 // 3) Dado um vetor que guarda o valor de faturamento diário de uma distribuidora, faça um programa, na linguagem que desejar, que calcule e retorne:
 // 	• O menor valor de faturamento ocorrido em um dia do mês;
@@ -242,11 +241,11 @@ for (let index = 0; index < faturamento.length; index++) {
 // 	a) Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;
 // 	b) Evite usar funções prontas, como, por exemplo, reverse;
 
-var text = 'PALINDROMO';
-var array = text.split('');
+var frase = 'PALINDROMO';
+var array = frase.split('');
 var arrayInvertido = [];
 var cont = 0
-console.log('FRASE : ' + text);
+console.log('FRASE : ' + frase);
 
 for (let index = array.length - 1; index >= 0; index--) {
     arrayInvertido[cont] = array[index]

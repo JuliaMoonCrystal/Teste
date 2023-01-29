@@ -1,2 +1,2 @@
-# Teste--t-cnico-
+# Teste-técnico-
 Teste técnico 

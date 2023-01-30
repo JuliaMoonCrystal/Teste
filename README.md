@@ -1,4 +1,4 @@
-# Teste-técnico
+# Teste
 # *o arquivo main.js contem o desenvolvimento dos desafios
 Teste técnico 
 
